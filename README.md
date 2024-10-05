@@ -1,6 +1,5 @@
 <p align="center"> 
   <img alt="glaph" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguroiori&theme=tokyonight" />
-  <img alt="glaph" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ooguroiori&theme=tokyonight&utcOffset=+9" />
 </p>
 
 <p align="center"> 
