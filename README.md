@@ -8,7 +8,7 @@
 </p>
 
 
-## Trophy
+##
 <p align="center">
   <img alt="torophy" height="180px" src="https://github-profile-trophy.vercel.app/?username=ooguroiori&theme=onedark" />
 </p>
