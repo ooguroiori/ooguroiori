@@ -1,3 +1,10 @@
+ <a href="https://github.com/oguroiori">
+    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+ </a>
+  <a href="http://qiita.com/daikokun">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+ </a>
+  
 <p align="center"> 
   <img alt="glaph" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ooguroiori&theme=tokyonight" />
 </p>
