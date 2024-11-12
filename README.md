@@ -1,8 +1,8 @@
- <a href="https://github.com/oguroiori">
-    <img height="20" src="https://img.shields.io/github/followers/yutkat?label=follow&logo=github&style=flat" />
+ <a href="https://github.com/ooguroiori">
+    <img height="20" src="https://img.shields.io/github/followers/ooguroiori?label=follow&logo=github&style=flat" />
  </a>
   <a href="http://qiita.com/daikokun">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ooguroiori/posts.svg" />
  </a>
   
 <p align="center"> 
